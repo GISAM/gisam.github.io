@@ -1,29 +1,28 @@
-# **Sam Jackson**
-
-**GIS Specialist | Alton, Hampshire**
+# **Sam Jackson**  
+❖ Alton, Hampshire
 
 ---
 
 ## **Professional Summary**
-As a seasoned GIS specialist with over a decade of experience, I possess a deep understanding of spatial data and mapping technologies. I have successfully developed GIS applications and solutions for clients across various industries. I am now seeking a dynamic workplace to apply my expertise, learn new skills, and utilize the latest GIS technologies.
+Experienced GIS specialist with a deep understanding of spatial data and mapping technologies. Possesses over 10 years of professional experience developing GIS applications and solutions for a range of clients across various industries. Seeking a rewarding opportunity to utilize the latest GIS technologies and data, applying existing expertise while developing new skills within a dynamic workplace.
 
 ---
 
 ## **Skills**
 
-- **GIS Programming**
-- **Databases**
+- **GIS**
   - ArcGIS Enterprise/ArcGIS Online
   - ArcMap/ArcGIS Pro
   - FME
-- **Programming Languages**
+- **Programming**
+  - Python
   - JavaScript
   - HTML/CSS
-  - Python
 - **Databases**
   - SQL Server
   - Postgres (PostGIS)
   - Oracle
+  - DuckDB
 
 ---
 
@@ -34,43 +33,62 @@ As a seasoned GIS specialist with over a decade of experience, I possess a deep 
 *June 2018 – Present*
 
 - Developed and implemented a new enterprise-wide mapping system for the council.
-- Created web apps and dashboards using ArcGIS Web AppBuilder/ArcGIS Experience builder.
+  - Identified problems with the current system and engaged with users to understand their business requirements.
+  - Created a system design to meet user needs and allow opportunities for improvement and growth.
+  - Installed and configured software, troubleshooted technical issues, and ensured that the system is running smoothly and efficiently.
+  - Migrated all data and users to the new system and provided technical documentation, support, and training when required.
+- Created web apps and dashboards (ArcGIS Web AppBuilder/ArcGIS Experience builder).
+- Created mobile data capture and editing solutions (Esri Field Apps/Survey123).
 - Managed ETL data pipelines with FME and ArcPy.
 - Automated administrative tasks within the ArcGIS Online environment using ArcGIS API for Python.
+- Liaised with 3rd party organizations that supply or receive corporate or GIS data from the council.
+- Acted as a subject matter expert to colleagues across the council on GIS, data management, and reporting.
 
-### **Freelance GIS Consultant**  
-*Remote*  
+### **Various (Occasional freelancer while traveling)**  
+*GIS Consultant | Remote*  
 *May 2017 – February 2018*
 
-- Earned "High Rated" status on Upwork for consistently delivering high-quality work.
-- Developed client relationships and delivered GIS solutions without supervision.
+- Earned "High Rated" status on Upwork by consistently providing high-quality work ([Upwork Profile](https://www.upwork.com/freelancers/~01501ca2544fc482e2)).
+- Wrote and submitted proposals, attended interviews, and meetings remotely via Skype.
+- Garnered leads and developed relationships with clients.
+- Acted independently without supervision, using initiative and organizational skills to ensure client deadlines were met within agreed timeframes.
 
 ### **AECOM**  
 *GIS Consultant | Basingstoke, Hampshire*  
 *June 2015 – May 2017*
 
-- Provided GIS support for clients in energy, utilities, urban planning, and ecology sectors.
-- Created bespoke tools using ESRI Model Builder and Python to automate workflows.
+- Provided GIS support and expertise to clients in various industries, such as energy, utilities, urban planning, and ecology.
+- Produced cartographic output for reports (ArcMap/ArcGIS Pro), undertook spatial analysis, and verified, cleansed, converted, and redistributed data.
+- Created bespoke tools using ESRI Model Builder and Python to automate geospatial workflows and improve data integrity.
+- Utilized GIS and its application to support business decisions in a client-facing environment. Accurately interpreted the needs and goals of clients to deliver solutions that are effective, focused, and on target.
 
 ### **Sciemus**  
 *GIS/SQL Engineer | Farnborough, Hampshire*  
 *June 2014 – March 2015*
 
-- Maintained Web-GIS property risk assessment application for the insurance industry.
-- Administered GIS databases and published map services with ArcGIS Server.
+- Maintained Web-GIS property risk assessment application for the insurance industry. Worked in a client-facing multi-disciplined team and gathered requirements for GIS services.
+- Updated datasets and published map services with ArcGIS Server.
+- Performed GIS database maintenance and administration using SQL Server.
+- Responded to and resolved client support calls via telephone and email.
+- Administered user accounts and client access to various datasets based on their contractual obligations.
+- Prepared technical procedures and GIS standards documentation.
 
 ### **EGS Earth Science and Surveying**  
 *GIS Analyst | Bordon, Hampshire*  
-*January 2014 – June 2014*
+*January 2014 – June 2014 (Contract)*
 
-- Responsible for GIS data management and map/chart production.
-- Developed geoprocessing methods using Python scripts.
+- Responsible for GIS data used by the company and the production of maps and charts.
+- Performed data analysis and visualization on geophysical data collected by EGS survey vessels.
+- Developed geo-processing methods by creating Python scripts to aid data management procedures and spatial analysis.
+- Prepared GIS deliverables for multiple clients, maintaining data integrity and working within financial penalty deadlines.
 
 ### **DONG Energy**  
 *GIS Analyst | Victoria, London*  
-*February 2013 – June 2013*
+*February 2013 – June 2013 (Contract)*
 
-- Supported the GIS team on wind farm projects, creating maps and performing spatial analysis.
+- Assisted the GIS team in all tasks relating to wind farm projects within the company.
+- Created a large volume of maps and performed analysis for environmental impact assessments.
+- Updated and maintained UK-wide datasets, ensuring metadata and copyright information were accurate and up to date.
 
 ---
 
@@ -78,27 +96,24 @@ As a seasoned GIS specialist with over a decade of experience, I possess a deep 
 
 **Kingston University**  
 *Bachelor of Science (Hons) | Upper Second Class Honours*  
-*2008 - 2011 | Kingston upon Thames, Surrey*
+*2008 - 2011 | Kingston upon Thames, Surrey*  
+- **Major:** Geographic Information Science
 
 **Farnham College**  
-*A-Level & AS-Level*  
+*A-Level*  
 *2006 - 2008 | Farnham, Surrey*  
-- **A-Level Grades:** Geography (B), Economics (C)  
+- **Grades:** Geography (B), Economics (C)  
 - **AS-Level Grades:** Business Studies (C), General Studies (B), I.T. (B)
 
 **Weydon School**  
 *GCSE*  
 *2001 - 2006 | Farnham, Surrey*  
-- **GCSE Grades:** 10 A*-B grades including English, Math, and Science
+- **Grades:** 10 A*-B grades including English, Math, and Science
 
 ---
 
 ## **Professional Training and Certifications**
 
-- **Microsoft Certified:** Microsoft Azure Data Fundamentals
-- **FME Desktop:** 2-day on-site course
-- **DataCamp:** Understanding Data Engineering
-
----
-
-**References available on request**
+- **Microsoft Certified:** Microsoft Azure Data Fundamentals (Score: 912)
+- **FME Desktop:** On-site 2-day course
+- **DataCamp:** Understand
